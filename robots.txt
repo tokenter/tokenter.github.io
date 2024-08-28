@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tokenter.github.io/sitemap.html.gz
+Sitemap: https://tokenter.github.io/app/sitemap.html.gz
+Sitemap: https://tokenter.github.io/assets/sitemap.html.gz
+Sitemap: https://tokenter.github.io/css/sitemap.html.gz
+Sitemap: https://tokenter.github.io/includes/sitemap.html.gz
+Sitemap: https://tokenter.github.io/item/sitemap.html.gz
+Sitemap: https://tokenter.github.io/src/sitemap.html.gz
